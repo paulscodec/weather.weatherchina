@@ -87,7 +87,7 @@ WEATHER_CODES = { '0' : '32',
 
 # API urls
 GEOIP_URL       = 'http://wgeo.weather.com.cn/ip/'
-LOCATION_URL    = 'http://m.weather.com.cn/data5/city%s.xml'
+LOCATION_URL    = '#'
 WEATHER_URL     = 'http://weather.51wnl.com/weatherinfo/GetMoreWeather?cityCode=%s&weatherType=1'
 WEATHER_DAY_URL = 'http://weather.51wnl.com/weatherinfo/GetMoreWeather?cityCode=%s&weatherType=0'
 WEATHER_HOURLY_URL = 'http://flash.weather.com.cn/sk2/%s.xml'
